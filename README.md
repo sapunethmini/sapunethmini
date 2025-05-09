@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapunethmini" alt="sapunethmini" /></a> </p>
 
-- 🔭 I’m currently working on [TaskMaster](https://github.com/sapunethmini/TaskMaster)
+- 🔭 I’m currently working on [TaskMaster](https://github.com/sapunethmini/Task_Master)
 - 🌱 I’m currently learning **Spring boot,Angular,ReactJS,Nodejs/Expressjs, Bootstrap/tailwind css,Hibernate(JPA)**
 
 - 📫 How to reach me **sapuninethmini888@gmail.com**
