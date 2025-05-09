@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapunethmini" alt="sapunethmini" /></a> </p>
 
-- 🔭 I’m currently working on [TryOn-Fit](https://github.com/DewBM/TryOn-Fit_web)
-
-- 🌱 I’m currently learning **Spring boot,Angular,ReactJS,Nodejs/Expressjs, Bootstrap/tailwind css,Hibernate(JPA)**
-
 - 🔭 I’m currently working on [TaskMaster](https://github.com/sapunethmini/TaskMaster)
+- 🌱 I’m currently learning **Spring boot,Angular,ReactJS,Nodejs/Expressjs, Bootstrap/tailwind css,Hibernate(JPA)**
 
 - 📫 How to reach me **sapuninethmini888@gmail.com**
 
