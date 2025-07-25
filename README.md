@@ -23,7 +23,7 @@
 
 > Undergraduate at University of Colombo School of Computing passionate about Java development and building scalable applications
 
-- 🔭 Currently working on **[TaskMaster](https://github.com/sapunethmini/Task_Master)**
+- 🔭 My latest project  **[TaskMaster](https://github.com/sapunethmini/Task_Master)**
 - 🌱 Learning **Spring Boot, Angular, React, Node.js, Hibernate**
 - 🛠️ Working with **Java, JavaScript, TypeScript, PostgreSQL**
 - 🎓 Computer Science student with deep interest in software engineering
